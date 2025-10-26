@@ -1,5 +1,5 @@
 # KnowHouseApp
-KnowHouse Mobile App for iOS and Android
+KnowHouse Mobile App for iOS, Android, MacOS and Web
 
 
 ### Organization
