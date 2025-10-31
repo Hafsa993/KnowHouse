@@ -1,4 +1,4 @@
-# KnowHouseApp
+# KnowHouseApp Coming Soon to the Apple App Store and Google Play Store!
 KnowHouse Mobile App for iOS, Android, MacOS and Web
 
 
