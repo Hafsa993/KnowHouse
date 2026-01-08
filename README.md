@@ -1,4 +1,4 @@
-# KnowHouseApp Coming Soon to the Apple App Store and Google Play Store!
+# KnowHouseApp Coming Soon to the Apple App Store and Google Play Store (in 14 days)!
 KnowHouse Mobile App for iOS, Android, MacOS and Web
 
 
