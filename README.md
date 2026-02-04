@@ -1,5 +1,7 @@
-# KnowHouseApp Coming Soon to the Apple App Store and Google Play Store!
-KnowHouse Mobile App for iOS, Android, MacOS and Web
+# KnowHouseApp [Available on the Google Play Store!](https://play.google.com/store/apps/details?id=com.hafsa.knowHouseApp&hl=de_CH)
+KnowHouse Mobile App for Android and iOS
+
+- Available on Google Play Store and coming soon to the Apple App store !
 
 
 ### Organization
