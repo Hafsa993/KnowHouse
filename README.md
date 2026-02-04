@@ -1,7 +1,7 @@
-# KnowHouseApp [Available on the Google Play Store!](https://play.google.com/store/apps/details?id=com.hafsa.knowHouseApp&hl=de_CH)
+# KnowHouse: Available on the Google Play Store now!
 KnowHouse Mobile App for Android and iOS
-
-- Available on Google Play Store and coming soon to the Apple App store !
+[<img height="400" src="img/playstore_logo.png">](https://play.google.com/store/apps/details?id=com.hafsa.knowHouseApp&hl=de_CH)
+- Available on Google Play Store and coming soon to the Apple App store!
 
 
 ### Organization
