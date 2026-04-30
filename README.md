@@ -3,32 +3,6 @@ KnowHouse Mobile App for Android and iOS
 [<img height="400" src="img/playstore_logo.png">](https://play.google.com/store/apps/details?id=com.hafsa.knowHouseApp)
 - Available on Google Play Store and coming soon to the Apple App store!
 
-
-### Organization
-```
-├── KnowHouseApp/househo.../lib/  # Main application code
-
-│   ├── main.dart                 # App entry point with Firebase init and routing
-
-│   ├── firebase_options.dart     # Firebase configuration
-
-│   ├── signin_page.dart          # Authentication screen
-
-│   ├── models/                   # Data models (e.g., User, Task)
-
-│   ├── providers/                # State management (e.g., UserProvider, TaskProvider)
-
-│   ├── screens/                  # UI screens (e.g., HomeScreen, RankingScreen)
-
-│   ├── widgets/                  # Reusable UI components (e.g., ToDoForm)
-
-│   └── assets/                   # Static assets (images, fonts)
-
-├── docs/                         # documentation folder
-
-├── test/                         # tests folder
-
-```
 ## About The App
 
 KnowHouse is a mobile app for households and families to manage shared tasks and instructions together. Users can create, assign, and track tasks, earn points for completed work, and view a family leaderboard to encourage participation.
